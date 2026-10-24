@@ -3,7 +3,8 @@
 An interactive music artist website with a custom audio player, dynamic playlist, and smooth animations. Built as part of my frontend portfolio.
 
 ## 🌐 Live Demo
-- **GitHub Pages:** 
+## 🌐 Live Demo
+- **GitHub Pages:** https://ifrakhan0109.github.io/ListenUp-Music-Website/
 
 ## ✨ Features
 - Custom audio player with play/pause and volume controls
